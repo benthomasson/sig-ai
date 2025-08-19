@@ -44,7 +44,7 @@ flowchart TD
     U --> W[Create PR/Commit]
     U --> X[Run Tests]
     
-    style A fill:#0052cc
+    style A fill:#5552cc
     style B fill:#36b37e
     style C fill:#ff8b00
     style D fill:#de350b
