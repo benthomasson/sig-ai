@@ -45,9 +45,9 @@ flowchart TD
     U --> X[Run Tests]
     
     style A fill:#9992cc
-    style B fill:#36b37e
-    style C fill:#ff8b00
-    style D fill:#de350b
+    style B fill:#96b37e
+    style C fill:#ff8b90
+    style D fill:#de959b
     style L fill:#fff3e0
     style P fill:#e3f2fd
     style U fill:#e8f5e8
